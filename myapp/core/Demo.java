@@ -1,5 +1,5 @@
 package myapp.core;
-//this is my first app
+//this is my first app hello
 import java.io.Console;
 
 public class Demo {
